@@ -11,7 +11,7 @@ export const notesSlice = createSlice({
       },
     ],
     selectedColor: "red",
-    searchText: "",
+    searchText: "n",
   },
   reducers: {
     addNote: {
